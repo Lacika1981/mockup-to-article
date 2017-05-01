@@ -1,0 +1,29 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been ?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+    What new skills have you learned?
+
+    * As I have had HTML knowledge these lections are quite easy. However I have learnt new things what I did not know about earlier. Like the "horizontal rule". I always used border to draw this line. So going through these lections is really worth
+
+
+    What has been easy?
+
+    * It was easy for me.
+
+
+    What has been difficult?
+
+    * As I have knowledge of HTML I tend to rush and it causes problems. So I try to slow down myself and concentrate on the task.
+
+
+    How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+    * No, I have not.
